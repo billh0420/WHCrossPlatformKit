@@ -1,9 +1,8 @@
 //
 //  CrossPlatform+osx.swift
-//  CardImageKit
+//  WHCrossPlatformKit
 //
 //  Created by William Hale on 1/30/16.
-//  Copyright © 2016 William Hale. All rights reserved.
 //
 
 #if os(OSX)
